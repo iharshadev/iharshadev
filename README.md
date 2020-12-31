@@ -21,3 +21,5 @@ Wanna collab on a hackaton/talk about coffee, comics, tech or anything in genera
 
 | <a href="https://www.linkedin.com/in/iharshadev" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> | <a href="https://devpost.com/harsha993" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/mBzRAXo.png" width=40px height=40px title="source: imgur.com" /></a> | <a href="https://www.instagram.com/maybewankenobi" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/FukmRzq.png" width=40px height=40px title="source: imgur.com" /></a>
 |---|---|---|
+
+:eyes: ![](https://komarev.com/ghpvc/?username=iharshadev&color=blueviolet)
