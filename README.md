@@ -1,11 +1,10 @@
-### Hello 👋 I'm Harsha
+## Hello 👋 I'm Harsha
 
-### :coffee: about me:
-- currently a student and a former data-engineer/programmer @[Flutura](https://www.flutura.com)
-- :coffee: fanatic, comicphile, novice photographer :camera:, nerd, gamer :video_game:, travel buff :tent:, metalhead :metal:
-- Enthusiast of [suckless](https://suckless.org/) software & software that truly respect user privacy
+### :cyclone: about me:
+- Graduate student :mortar_board: and a former data-engineer/programmer @[Flutura](https://www.flutura.com)
+- :coffee: fanatic, comicphile, Engineer :sunglasses:, nerd :nerd_face:, gamer :video_game:,
+- Enthusiast of [suckless](https://suckless.org/) software & ones that truly respect user privacy
 - looking to collaborate on open-source projects :star2: and [hackatons](https://devpost.com/harsha993)
-- need help with front-end dev. I suck at it. Like really :confounded:
 
 ### :bulb: what I know
 
@@ -13,7 +12,7 @@
 |---|---|---|---|---|---|---|---|---|
 
 ### :boom: what I can do
-- Implement & optimize [Spark](https://spark.apache.org/) jobs on multi-node clusters (standalone/Hortonworks alike)
+- Implement & optimize [Spark ⚡](https://spark.apache.org/) jobs on multi-node clusters (standalone/Hortonworks alike)
 - Build data/ETL pipelines with big data tools like Spark, Kafka, Hbase, Hive, [OpenTSDB](http://opentsdb.net)
 - Develop, deploy & maintain REST APIs,services with Django & heroku
 - Setup environments for microservice architectures & debug them
