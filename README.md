@@ -19,7 +19,7 @@
 - Automate daily tasks and simplify platform maintenance with shell scripts
 - Write SQL procedures and queries to solve complex business problems
 - Develop basic front end apps with HTML, CSS Javascript (JQuery)
-- Everything else with some time and practice :wink:
+- Everything else with some time, practice and lots of ☕ 😜
 
 ### 📫 Get in touch.
 
