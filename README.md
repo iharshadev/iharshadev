@@ -1,7 +1,7 @@
 ## Hello 👋 I'm Harsha
 
 ### :cyclone: about me:
-- Graduate student :mortar_board: and a former data-engineer/programmer @[Flutura](https://www.flutura.com)
+- Graduate student :mortar_board:
 - :coffee: fanatic, comicphile, Engineer :sunglasses:, nerd :nerd_face:, gamer :video_game:,
 - Enthusiast of [suckless](https://suckless.org/) software & ones that truly respect user privacy
 - looking to collaborate on open-source projects :star2: and [hackatons](https://devpost.com/harsha993)
@@ -28,8 +28,5 @@ Wanna collab on a hackaton/talk about coffee, comics, tech or anything in genera
 | <a href="https://www.linkedin.com/in/iharshadev" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> | <a href="https://devpost.com/harsha993" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/mBzRAXo.png" width=40px height=40px title="source: imgur.com" /></a> | <a href="https://www.instagram.com/maybewankenobi" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/FukmRzq.png" width=40px height=40px title="source: imgur.com" /></a>
 |---|---|---|
 
-### :handshake: Hire me
-
-Looking for a software developer/engineer with decent experience who loves solve problems with technology ? You've stumbled upon the right place. I'm actively looking for entry level jobs/internships/ new grad 🎓 roles starting Spring 2021. Please toss me an [email ✉️ ](mailto:harshavardhanr.993@gmail.com) or an [inmail](https://www.linkedin.com/in/iharshadev/) and I'd love to talk
 
 ![](https://komarev.com/ghpvc/?username=iharshadev&color=blueviolet&label=stalk+counter+👀)
